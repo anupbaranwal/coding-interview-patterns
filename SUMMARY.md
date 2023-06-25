@@ -11,9 +11,9 @@
   * [1.5 No-repeat Substring (hard)](coding-interview-patterns/1.-pattern-sliding-window/1.5-no-repeat-substring-hard.md)
   * [1.6 Longest Substring with Same Letters after Replacement (hard)](coding-interview-patterns/1.-pattern-sliding-window/1.6-longest-substring-with-same-letters-after-replacement-hard.md)
   * [1.7 Longest Subarray with Ones after Replacement (hard)](coding-interview-patterns/1.-pattern-sliding-window/1.7-longest-subarray-with-ones-after-replacement-hard.md)
-* [3. Pattern Two Pointers](coding-interview-patterns/3.-pattern-two-pointers/README.md)
-  * [3.1 Introduction](coding-interview-patterns/3.-pattern-two-pointers/3.1-introduction.md)
-  * [3.2 Pair with Target Sum (easy)](coding-interview-patterns/3.-pattern-two-pointers/3.2-pair-with-target-sum-easy.md)
+* [2. Pattern Two Pointers](coding-interview-patterns/2.-pattern-two-pointers/README.md)
+  * [2.1 Introduction](coding-interview-patterns/2.-pattern-two-pointers/2.1-introduction.md)
+  * [2.2 Pair with Target Sum (easy)](coding-interview-patterns/2.-pattern-two-pointers/2.2-pair-with-target-sum-easy.md)
 
 ## Policies
 
