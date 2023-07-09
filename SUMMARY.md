@@ -14,6 +14,9 @@
 * [2. Pattern Two Pointers](coding-interview-patterns/2.-pattern-two-pointers/README.md)
   * [2.1 Introduction](coding-interview-patterns/2.-pattern-two-pointers/2.1-introduction.md)
   * [2.2 Pair with Target Sum (easy)](coding-interview-patterns/2.-pattern-two-pointers/2.2-pair-with-target-sum-easy.md)
+* [9. Pattern Tree Depth First Search](coding-interview-patterns/9.-pattern-tree-depth-first-search/README.md)
+  * [Binary Tree Path Sum (easy)](coding-interview-patterns/9.-pattern-tree-depth-first-search/binary-tree-path-sum-easy.md)
+  * [All Paths for a Sum (medium)](coding-interview-patterns/9.-pattern-tree-depth-first-search/all-paths-for-a-sum-medium.md)
 
 ## Policies
 
